@@ -1,0 +1,17 @@
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\bin\Debug\MouseClick-sound-ProVersion.exe.config
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\bin\Debug\MouseClick-sound-ProVersion.exe
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\bin\Debug\MouseClick-sound-ProVersion.pdb
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\obj\Debug\MouseClick-sound-ProVersion.csproj.AssemblyReference.cache
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\obj\Debug\MouseClick-sound-ProVersion.csproj.SuggestedBindingRedirects.cache
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\obj\Debug\MouseClick_sound_ProVersion.Form1.resources
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\obj\Debug\MouseClick_sound_ProVersion.Properties.Resources.resources
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\obj\Debug\MouseClick-sound-ProVersion.csproj.GenerateResource.cache
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\obj\Debug\MouseClick-sound-ProVersion.csproj.CoreCompileInputs.cache
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\obj\Debug\MouseClick-sound-ProVersion.exe
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\obj\Debug\MouseClick-sound-ProVersion.pdb
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\obj\Debug\MouseClick_sound_ProVersion.HelpForm.resources
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\bin\Debug\MouseClick-sound-ProVersion.exe.manifest
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\bin\Debug\MouseClick-sound-ProVersion.application
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\obj\Debug\MouseClick-sound-ProVersion.TrustInfo.xml
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\obj\Debug\MouseClick-sound-ProVersion.exe.manifest
+C:\Users\antek\source\repos\MouseClick-sound-ProVersion\MouseClick-sound-ProVersion\obj\Debug\MouseClick-sound-ProVersion.application
